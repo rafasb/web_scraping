@@ -1,0 +1,5 @@
+*.html
+notas.txt
+*.mp3
+__pycache__/
+.venv/
